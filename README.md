@@ -1,4 +1,4 @@
-Hi 👋 My name is Shubhojeet Bera
+Hi! I'm Shubho 👋
 ================================
 
 Web Developer | Blockchain Enthusiast

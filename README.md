@@ -10,7 +10,7 @@ I'm a video editor by profession but a developer by passion. I started my coding
 *   🖥️  See my portfolio at [Portfolio](https://shubho0908.github.io/My-Portfolio/)
 *   ✉️  You can contact me at [shubhobera98@gmail.com](mailto:shubhobera98@gmail.com)
 *   🧠  I'm learning Back-End Development
-*   
+
 ### Skills
 
 <p align="left">

@@ -6,7 +6,7 @@ Web Developer | Blockchain Enthusiast
 
 I'm a video editor by profession but a developer by passion. I started my coding journey with C++ in Sept 2021. Later I found that I'm very much interested in Blockchain Development. So, started learning this new technology from the very basics.
 
-*   🌍  I'm based in Durg
+*   🌍  I'm based in Durg, Chhattisgarh
 *   🖥️  See my portfolio at [Portfolio](https://shubho0908.github.io/My-Portfolio/)
 *   ✉️  You can contact me at [shubhobera98@gmail.com](mailto:shubhobera98@gmail.com)
 *   🧠  I'm learning Back-End Development

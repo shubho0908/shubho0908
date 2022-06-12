@@ -3,7 +3,7 @@ I'm a Video Editor | Developer & Blockchain Enthusiast 🚀
 
 🌍  I'm based in Durg, Chhattisgarh
 
-🖥️  See my portfolio at [shubho0908.github.io](https://shubhojeetbera.tech/))
+🖥️  See my portfolio at [shubho0908.github.io](https://shubhojeetbera.tech/)
 
 ✉️  You can contact me at shubhobera98@gmail.com
 

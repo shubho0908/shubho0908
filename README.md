@@ -2,8 +2,11 @@
 I'm a Video Editor | Developer & Blockchain Enthusiast 🚀
 
 🌍  I'm based in Durg, Chhattisgarh
+
 🖥️  See my portfolio at www.shubho0908.github.io
+
 ✉️  You can contact me at shubhobera98@gmail.com
+
 🧠  I'm learning Node.js
 
 ## 🌐Socials

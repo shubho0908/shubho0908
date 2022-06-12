@@ -1,4 +1,4 @@
-# 💫About Me :
+👋 Hey! I'm Shubho.
 I'm a Video Editor | Developer & Blockchain Enthusiast 🚀
 
 🌍  I'm based in Durg, Chhattisgarh

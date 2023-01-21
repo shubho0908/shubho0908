@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhojeet</h1>
 <h3 align="center">I'm a Developer, Video Editor & Blockchain Enthusiast 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubho0908&label=Profile%20views&color=0e75b6&style=flat" alt="shubho0908" /> </p>
-
 - 🌱 I’m currently learning **MERN stack development**
 
 - ✉️ You can contact me at **shubhobera98@gmail.com**

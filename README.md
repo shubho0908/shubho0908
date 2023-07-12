@@ -2,7 +2,7 @@
 <h3>I'm a Developer, Video Editor & Blockchain Enthusiast 🚀</h3>
 
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently working on **MERN stack projects**
 
 - ✉️ You can contact me at **shubhobera98@gmail.com**
 

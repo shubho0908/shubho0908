@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhojeet</h1>
-<h3>I'm a Developer, Video Editor & Blockchain Enthusiast 🚀</h3>
+<h3>I'm a Full-Stack Developer & Video Editor 🚀</h3>
 
 
 - 🌱 I’m currently working on **MERN stack projects**

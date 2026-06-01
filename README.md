@@ -1,1 +1,1 @@
-Learning to build.
+building myself :)

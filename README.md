@@ -22,4 +22,16 @@ building myself & [pragnya](https://pragnyaa.in) :)
 
 ---
 
-[website](https://shubhojeet.com) · [blog](https://blog.shubhojeet.com) · [x](https://x.com/shubhojs) · [linkedin](https://www.linkedin.com/in/shubhobera) · [youtube](https://youtube.com/@shubhojeetbera) · [email](mailto:hey@shubhojeet.com)
+<p align="left">
+  <a href="https://shubhojeet.com" target="_blank" rel="noreferrer" title="website"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:globe.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:globe.svg?color=%2327272a"><img src="https://api.iconify.design/lucide:globe.svg?color=%2371717a" width="20" height="20" alt="website" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://blog.shubhojeet.com" target="_blank" rel="noreferrer" title="blog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:square-pen.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:square-pen.svg?color=%2327272a"><img src="https://api.iconify.design/lucide:square-pen.svg?color=%2371717a" width="20" height="20" alt="blog" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/shubhojs" target="_blank" rel="noreferrer" title="x"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%2327272a"><img src="https://api.iconify.design/simple-icons:x.svg?color=%2371717a" width="19" height="19" alt="x" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubhobera" target="_blank" rel="noreferrer" title="linkedin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%2327272a"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2371717a" width="19" height="19" alt="linkedin" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@shubhojeetbera" target="_blank" rel="noreferrer" title="youtube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:youtube.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:youtube.svg?color=%2327272a"><img src="https://api.iconify.design/simple-icons:youtube.svg?color=%2371717a" width="21" height="21" alt="youtube" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hey@shubhojeet.com" title="email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:mail.svg?color=%23e4e4e7"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:mail.svg?color=%2327272a"><img src="https://api.iconify.design/lucide:mail.svg?color=%2371717a" width="20" height="20" alt="email" /></picture></a>
+</p>
